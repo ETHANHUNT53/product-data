@@ -7,7 +7,8 @@
     "pricePerPiece": 1.45,
     "minOrderQuantity": "2 carton box - 3720 pcs",
     "price": 9114,
-    "description": "A premium green scrubber pad ideal for kitchen, hotel, and industrial use. It measures 3x4 inches with 10mm thickness and comes in attractive packaging. Built to handle tough stains and ensure long-lasting use, it's perfect for heavy-duty cleaning tasks."
+    "description": "A premium green scrubber pad ideal for kitchen, hotel, and industrial use. It measures 3x4 inches with 10mm thickness and comes in attractive packaging. Built to handle tough stains and ensure long-lasting use, it's perfect for heavy-duty cleaning tasks.",
+    "type": "non-machine"
   },
   {
     "id": 2,
@@ -17,17 +18,19 @@
     "minQuantity": 1,
     "minOrderQuantity": "1",
     "price": 12999,
-    "description": "This cotton wick making machine is designed for efficient production of round cotton wicks. It is perfect for small businesses or individuals looking to start a home-based wick production operation with minimal setup."
+    "description": "This cotton wick making machine is designed for efficient production of round cotton wicks. It is perfect for small businesses or individuals looking to start a home-based wick production operation with minimal setup.",
+    "type": "machine"
   },
   {
     "id": 3,
-    "name": "Scruber Packing Machine",
+    "name": "Scrubber Packing Machine",
     "image": "https://cpimg.tistatic.com/07945573/b/5/Wooden-Box-Manual-Scrubber-Packing-Machine.jpg",
     "minQuantity": 1,
     "pricePerPiece": 16999,
     "minOrderQuantity": "1",
     "price": 16999,
-    "description": "A sturdy and compact scrubber packing machine enclosed in a wooden box. It offers manual operation and is suitable for small-scale manufacturers aiming to improve packaging quality and speed."
+    "description": "A sturdy and compact scrubber packing machine enclosed in a wooden box. It offers manual operation and is suitable for small-scale manufacturers aiming to improve packaging quality and speed.",
+    "type": "machine"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "minQuantity": 200,
     "minOrderQuantity": "200 dozen",
     "price": 11600,
-    "description": "The 2-in-1 scrub sponge is crafted for superior cleaning of kitchen sinks, utensils, and bathrooms. Its dual-layer structure combines durability and scrubbing power, available in bulk for commercial or retail use."
+    "description": "The 2-in-1 scrub sponge is crafted for superior cleaning of kitchen sinks, utensils, and bathrooms. Its dual-layer structure combines durability and scrubbing power, available in bulk for commercial or retail use.",
+    "type": "non-machine"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "pricePerPiece": 165,
     "minOrderQuantity": "25 kg",
     "price": 4125,
-    "description": "Transparent and durable scrubber packaging blister that enhances product presentation and maintains hygiene. Easy to seal, lightweight, and ideal for retailers and manufacturers looking for cost-effective packaging."
+    "description": "Transparent and durable scrubber packaging blister that enhances product presentation and maintains hygiene. Easy to seal, lightweight, and ideal for retailers and manufacturers looking for cost-effective packaging.",
+    "type": "non-machine"
   },
   {
     "id": 6,
@@ -58,7 +63,8 @@
     "minOrderQuantity": "6250 pcs",
     "price": [8125, 9062.5, 15937.5],
     "description": "A complete assortment of raw materials used in pen manufacturing. This includes transparent barrels, colorful pen bodies, and high-quality refills. Ideal for factories or workshops focused on producing writing instruments.",
-    "categories": ["color", "transparent", "refill"]
+    "categories": ["color", "transparent", "refill"],
+    "type": "non-machine"
   },
   {
     "id": 7,
@@ -68,7 +74,8 @@
     "minQuantity": 150,
     "minOrderQuantity": "150 dozen",
     "price": 5850,
-    "description": "Plastic cleaning scrubbers designed for effective scrubbing and long-term use. Comes in bulk dozens, these scrubbers are great for household cleaning or commercial supply."
+    "description": "Plastic cleaning scrubbers designed for effective scrubbing and long-term use. Comes in bulk dozens, these scrubbers are great for household cleaning or commercial supply.",
+    "type": "non-machine"
   },
   {
     "id": 8,
@@ -78,7 +85,8 @@
     "minQuantity": 1,
     "minOrderQuantity": "5000 pcs",
     "price": 12750,
-    "description": "Loose toothbrushes available in bulk minOrderQuantity. Durable and economical, these are great for everyday personal care, community drives, or resale by wholesalers."
+    "description": "Loose toothbrushes available in bulk minOrderQuantity. Durable and economical, these are great for everyday personal care, community drives, or resale by wholesalers.",
+    "type": "non-machine"
   },
   {
     "id": 9,
@@ -88,7 +96,8 @@
     "pricePerPiece": 13999,
     "minOrderQuantity": "1",
     "price": 13999,
-    "description": "A 5-set manual pen making machine that helps streamline pen manufacturing. Compact, efficient, and easy to operate, it's well-suited for startups or small production units."
+    "description": "A 5-set manual pen making machine that helps streamline pen manufacturing. Compact, efficient, and easy to operate, it's well-suited for startups or small production units.",
+    "type": "machine"
   },
   {
     "id": 10,
@@ -98,7 +107,8 @@
     "pricePerPiece": 31999,
     "minOrderQuantity": "1",
     "price": 31999,
-    "description": "Comprising 5 pen making tools and 3 ink filling units, this 8-set machine allows for a comprehensive pen production process. Ideal for small to medium-scale operations looking to enhance productivity."
+    "description": "Comprising 5 pen making tools and 3 ink filling units, this 8-set machine allows for a comprehensive pen production process. Ideal for small to medium-scale operations looking to enhance productivity.",
+    "type": "machine"
   },
   {
     "id": 11,
@@ -108,7 +118,8 @@
     "pricePerPiece": 21999,
     "minOrderQuantity": "1",
     "price": 21999,
-    "description": "Pen manufacturing machine with 6 integrated tools designed for consistent and efficient production. Ideal for entrepreneurs expanding their pen-making capacity."
+    "description": "Pen manufacturing machine with 6 integrated tools designed for consistent and efficient production. Ideal for entrepreneurs expanding their pen-making capacity.",
+    "type": "machine"
   },
   {
     "id": 12,
@@ -118,7 +129,8 @@
     "pricePerPiece": 79999,
     "minOrderQuantity": "1",
     "price": 79999,
-    "description": "A large-scale pen-making machine featuring 17 components and capacity for four operators. Designed for high output, this set is perfect for growing businesses."
+    "description": "A large-scale pen-making machine featuring 17 components and capacity for four operators. Designed for high output, this set is perfect for growing businesses.",
+    "type": "machine"
   },
   {
     "id": 13,
@@ -128,7 +140,8 @@
     "pricePerPiece": 37999,
     "minOrderQuantity": "1",
     "price": 37999,
-    "description": "The refill pen making machine offers specialized production of high-quality ink refills. It ensures precision and volume for pen manufacturers focusing on the refill segment."
+    "description": "The refill pen making machine offers specialized production of high-quality ink refills. It ensures precision and volume for pen manufacturers focusing on the refill segment.",
+    "type": "machine"
   },
   {
     "id": 14,
@@ -138,7 +151,8 @@
     "pricePerPiece": 6999,
     "minOrderQuantity": "1",
     "price": 6999,
-    "description": "The mop making machine facilitates the efficient production of floor cleaning mops. Built for simplicity and speed, it's suitable for both new and established cleaning product businesses."
+    "description": "The mop making machine facilitates the efficient production of floor cleaning mops. Built for simplicity and speed, it's suitable for both new and established cleaning product businesses.",
+    "type": "machine"
   },
   {
     "id": 15,
@@ -148,7 +162,8 @@
     "pricePerPiece": 9999,
     "minOrderQuantity": "1",
     "price": 9999,
-    "description": "This machine is engineered to produce traditional Indian brooms or 'phool jhadoo'. It supports rural employment and helps manufacturers produce high-quality brooms at scale."
+    "description": "This machine is engineered to produce traditional Indian brooms or 'phool jhadoo'. It supports rural employment and helps manufacturers produce high-quality brooms at scale.",
+    "type": "machine"
   },
   {
     "id": 16,
@@ -158,7 +173,8 @@
     "pricePerPiece": 10999,
     "minOrderQuantity": "1",
     "price": 10999,
-    "description": "Durable and efficient viper (wiper) making machine built for producing floor wipers. It supports high-volume production and is perfect for cleaning product businesses."
+    "description": "Durable and efficient viper (wiper) making machine built for producing floor wipers. It supports high-volume production and is perfect for cleaning product businesses.",
+    "type": "machine"
   },
   {
     "id": 17,
@@ -168,7 +184,8 @@
     "minQuantity": 5,
     "minOrderQuantity": "5",
     "price": 7995,
-    "description": "Compact and user-friendly sealing machine designed for sealing plastic pouches and bags. Widely used in food, chemical, and retail industries for secure packaging."
+    "description": "Compact and user-friendly sealing machine designed for sealing plastic pouches and bags. Widely used in food, chemical, and retail industries for secure packaging.",
+    "type": "machine"
   },
   {
     "id": 18,
@@ -179,7 +196,8 @@
     "minOrderQuantity": "1",
     "price": [12999, 16999, 39999],
     "description": "Multi-purpose band sealer machine available in mini, standard, and advanced versions. It ensures fast and reliable sealing for a wide range of packaging needs.",
-    "categories": ["Mini Band Sealer", "Band Sealer", "Advance Band Sealer"]
+    "categories": ["Mini Band Sealer", "Band Sealer", "Advance Band Sealer"],
+    "type": "machine"
   },
   {
     "id": 19,
@@ -195,7 +213,8 @@
       "Round Cotton Wick Single Dye",
       "Round Cotton Wick Double Dye",
       "Round Cotton Wick Four Dye"
-    ]
+    ],
+    "type": "machine"
   },
   {
     "id": 20,
@@ -206,7 +225,8 @@
     "minQuantity": 200,
     "price": [7200, 8800],
     "pricePerPiece": [36, 44],
-    "description": "Foam pads available in 16mm and 20mm sizes. Ideal for dishwashing, bathroom scrubbing, and industrial cleaning. Multicolor variants add visual appeal for retail packaging."
+    "description": "Foam pads available in 16mm and 20mm sizes. Ideal for dishwashing, bathroom scrubbing, and industrial cleaning. Multicolor variants add visual appeal for retail packaging.",
+    "type": "non-machine"
   },
   {
     "id": 21,
@@ -217,7 +237,8 @@
     "price": [8800, 13200],
     "minOrderQuantity": "200 pcs",
     "minQuantity": 200,
-    "description": "Herbal white phenyl cleaner available in 500ml and 1L bottles. It effectively disinfects surfaces, leaves a refreshing sandalwood scent, and is ideal for homes and commercial cleaning."
+    "description": "Herbal white phenyl cleaner available in 500ml and 1L bottles. It effectively disinfects surfaces, leaves a refreshing sandalwood scent, and is ideal for homes and commercial cleaning.",
+    "type": "non-machine"
   },
   {
     "id": 22,
@@ -228,7 +249,8 @@
     "price": [13000, 18000],
     "minOrderQuantity": "200 pcs",
     "minQuantity": 200,
-    "description": "Powerful toilet cleaner offered in 500ml and 1L sizes. It removes tough stains, eliminates bacteria, and provides long-lasting freshness for household and institutional use."
+    "description": "Powerful toilet cleaner offered in 500ml and 1L sizes. It removes tough stains, eliminates bacteria, and provides long-lasting freshness for household and institutional use.",
+    "type": "non-machine"
   },
   {
     "id": 23,
@@ -239,7 +261,8 @@
     "price": [8000],
     "minOrderQuantity": "200 pcs",
     "minQuantity": 200,
-    "description": "Dishwashing liquid in 250ml bottles designed for cutting through grease and food stains. Mild on hands, tough on dirt, and perfect for daily kitchen cleaning."
+    "description": "Dishwashing liquid in 250ml bottles designed for cutting through grease and food stains. Mild on hands, tough on dirt, and perfect for daily kitchen cleaning.",
+    "type": "non-machine"
   },
   {
     "id": 24,
@@ -250,7 +273,8 @@
     "price": [31000, 39000],
     "minOrderQuantity": "200 kgs",
     "minQuantity": 200,
-    "description": "Long-lasting scrubbers made of steel and GI wire, designed for harsh cleaning applications. Supplied in bulk for wholesale distribution and industrial use."
+    "description": "Long-lasting scrubbers made of steel and GI wire, designed for harsh cleaning applications. Supplied in bulk for wholesale distribution and industrial use.",
+    "type": "non-machine"
   },
   {
     "id": 25,
@@ -261,7 +285,8 @@
     "price": [7600, 8600],
     "minOrderQuantity": "200 dozen",
     "minQuantity": 200,
-    "description": "Heavy-duty scrubber pad sheets offered in both GI and steel variants. Ideal for retailers and packaging units that require bulk supply and manual cutting."
+    "description": "Heavy-duty scrubber pad sheets offered in both GI and steel variants. Ideal for retailers and packaging units that require bulk supply and manual cutting.",
+    "type": "non-machine"
   },
   {
     "id": 26,
@@ -271,7 +296,8 @@
     "price": 7500,
     "minOrderQuantity": "1000 pcs",
     "minQuantity": 1000,
-    "description": "Scrubber sheets crafted for multi-purpose use in kitchen and industrial cleaning. Cost-effective and available in 1000-piece packs for wholesale or manufacturing purposes."
+    "description": "Scrubber sheets crafted for multi-purpose use in kitchen and industrial cleaning. Cost-effective and available in 1000-piece packs for wholesale or manufacturing purposes.",
+    "type": "non-machine"
   },
   {
     "id": 27,
@@ -281,7 +307,8 @@
     "price": 4500,
     "minOrderQuantity": "1000 pcs",
     "minQuantity": 1000,
-    "description": "Masala packaging sheets ideal for spice manufacturers. Offers clean sealing, freshness retention, and a polished look for various powdered or whole spices."
+    "description": "Masala packaging sheets ideal for spice manufacturers. Offers clean sealing, freshness retention, and a polished look for various powdered or whole spices.",
+    "type": "non-machine"
   },
   {
     "id": 28,
@@ -291,7 +318,8 @@
     "price": 5500,
     "minOrderQuantity": "1000 pcs",
     "minQuantity": 1000,
-    "description": "Toothbrush packaging sheets that ensure hygiene and display appeal. Commonly used by toothbrush manufacturers to package and present their products effectively."
+    "description": "Toothbrush packaging sheets that ensure hygiene and display appeal. Commonly used by toothbrush manufacturers to package and present their products effectively.",
+    "type": "non-machine"
   },
   {
     "id": 29,
@@ -301,7 +329,8 @@
     "price": 9000,
     "minOrderQuantity": "30 gross(1 gross = 144pcs)",
     "minQuantity": 30,
-    "description": "Plastic-handled tongue cleaners available in large gross units. Popular for dental hygiene and ideal for distributors, clinics, and retail sellers."
+    "description": "Plastic-handled tongue cleaners available in large gross units. Popular for dental hygiene and ideal for distributors, clinics, and retail sellers.",
+    "type": "non-machine"
   },
   {
     "id": 30,
@@ -311,7 +340,8 @@
     "price": 15000,
     "minOrderQuantity": "50 dozen",
     "minQuantity": 50,
-    "description": "Ergonomic tile brushes with firm bristles for heavy-duty scrubbing. Perfect for tiled surfaces in homes, commercial kitchens, and public restrooms."
+    "description": "Ergonomic tile brushes with firm bristles for heavy-duty scrubbing. Perfect for tiled surfaces in homes, commercial kitchens, and public restrooms.",
+    "type": "non-machine"
   },
   {
     "id": 31,
@@ -321,7 +351,8 @@
     "price": 6500,
     "minOrderQuantity": "500 pcs",
     "minQuantity": 500,
-    "description": "Durable toilet brushes designed for effective cleaning. Supplied in bulk, they are suitable for commercial cleaning services, retailers, and distributors."
+    "description": "Durable toilet brushes designed for effective cleaning. Supplied in bulk, they are suitable for commercial cleaning services, retailers, and distributors.",
+    "type": "non-machine"
   },
   {
     "id": 32,
@@ -331,7 +362,8 @@
     "price": 12000,
     "minOrderQuantity": "200 dozen",
     "minQuantity": 200,
-    "description": "Soft body loofahs made for gentle exfoliation and bathing comfort. Available in bulk dozens, suitable for cosmetic retailers and wholesalers."
+    "description": "Soft body loofahs made for gentle exfoliation and bathing comfort. Available in bulk dozens, suitable for cosmetic retailers and wholesalers.",
+    "type": "non-machine"
   },
   {
     "id": 33,
@@ -341,7 +373,8 @@
     "price": 5000,
     "minOrderQuantity": "200 pcs",
     "minQuantity": 200,
-    "description": "Body stick loofah with long handle for easy back scrubbing. Great for daily personal care, elderly use, and retail packaging in beauty kits."
+    "description": "Body stick loofah with long handle for easy back scrubbing. Great for daily personal care, elderly use, and retail packaging in beauty kits.",
+    "type": "non-machine"
   },
   {
     "id": 34,
@@ -351,7 +384,8 @@
     "price": 13000,
     "minOrderQuantity": "10000 pcs",
     "minQuantity": 10000,
-    "description": "Ready-to-use ball pens offered in bulk. Lightweight, smooth writing, and perfect for mass distribution in schools, offices, or businesses."
+    "description": "Ready-to-use ball pens offered in bulk. Lightweight, smooth writing, and perfect for mass distribution in schools, offices, or businesses.",
+    "type": "non-machine"
   },
   {
     "id": 35,
@@ -362,7 +396,8 @@
     "categories": ["blue", "black", "red", "green"],
     "minOrderQuantity": "20 lt",
     "minQuantity": 20,
-    "description": "Pen ink available in blue, black, red, and green colors. Supplied in 20-liter containers, it's ideal for refill manufacturers and bulk pen producers."
+    "description": "Pen ink available in blue, black, red, and green colors. Supplied in 20-liter containers, it's ideal for refill manufacturers and bulk pen producers.",
+    "type": "non-machine"
   },
   {
     "id": 36,
@@ -372,7 +407,8 @@
     "price": 19000,
     "minOrderQuantity": "50 kg",
     "minQuantity": 50,
-    "description": "Strong, food-grade multi-use plastic pouches suitable for packaging spices, scrubbers, pens, and more. Designed for durability and tamper resistance."
+    "description": "Strong, food-grade multi-use plastic pouches suitable for packaging spices, scrubbers, pens, and more. Designed for durability and tamper resistance.",
+    "type": "non-machine"
   },
   {
     "id": 37,
@@ -383,7 +419,8 @@
     "price": [4500, 7500],
     "minOrderQuantity": "10000 pcs",
     "minQuantity": 10000,
-    "description": "Pen pouches made to pack 10 or 20 pens securely. Cost-effective and ideal for resale or bundling of writing products in a retail setting."
+    "description": "Pen pouches made to pack 10 or 20 pens securely. Cost-effective and ideal for resale or bundling of writing products in a retail setting.",
+    "type": "non-machine"
   },
   {
     "id": 38,
@@ -393,6 +430,7 @@
     "price": 9500,
     "minOrderQuantity": "5000 pcs",
     "minQuantity": 5000,
-    "description": "Pen packing boxes designed to hold 20 pens. These sturdy and neatly finished boxes make storage and retail display more efficient and appealing."
+    "description": "Pen packing boxes designed to hold 20 pens. These sturdy and neatly finished boxes make storage and retail display more efficient and appealing.",
+    "type": "non-machine"
   }
 ]
