@@ -432,5 +432,16 @@
     "minQuantity": 5000,
     "description": "Pen packing boxes designed to hold 20 pens. These sturdy and neatly finished boxes make storage and retail display more efficient and appealing.",
     "type": "non-machine"
+  },
+  {
+    "id": 39,
+    "name": "Pen",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/7/435027940/VY/HY/IO/199808491/pen-boxes-250x250.jpg",
+    "pricePerPiece": 1.9,
+    "price": 10,
+    "minOrderQuantity": "5000 pcs",
+    "minQuantity": 1,
+    "description": "Pen packing boxes designed to hold 20 pens. These sturdy and neatly finished boxes make storage and retail display more efficient and appealing.",
+    "type": "non-machine"
   }
 ]
